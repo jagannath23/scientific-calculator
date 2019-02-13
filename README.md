@@ -1,2 +1,2 @@
 # scientific-calculator
-Calucladora científica con vue.js
+Calculadora científica con vue.js
